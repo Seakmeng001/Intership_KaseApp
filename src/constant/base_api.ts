@@ -1,0 +1,1 @@
+export const BaseURL= "https://kaseapp1dev.kasegro.com/api/r1"

@@ -1,0 +1,40 @@
+.head_left .h_subTitle{
+    background: #2e940f;
+    color: #FFFFFF;
+    font-weight: bold;
+    padding: 7px 20px;
+    border-radius: 20px;
+}
+.h title h1{
+    font-size: 50px;
+
+}
+.contact_btn{
+    background: #ffffff;
+    background: linear-gradient(0deg, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 1) 100%);
+    border: 1px solid #fb1c15 !important ;
+    /* background-color: transparent; */
+    color: #fb1c15  !important;
+    font-weight: bold !important;
+    text-transform: capitalize;
+    
+    
+}
+.head_right .imageContainer{
+    width: 100%;
+    height: 100%;
+    /* display: flex; */
+    bottom: 1000px;
+    
+}
+.imageContainer .lipstick{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+   
+} 
+.curve{
+    width: 8 rem;
+    height: 100%;
+    object-fit: cover;
+} 
